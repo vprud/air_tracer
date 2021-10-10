@@ -129,4 +129,5 @@ dmypy.json
 .pyre/
 
 
-.Датасет_04/
+./data/Датасет_04
+.DS_Store

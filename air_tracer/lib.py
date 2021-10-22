@@ -1,6 +1,6 @@
 import holidays
 
-from models import Predictor
+from air_tracer.models import Predictor
 
 def test():
     predictor = Predictor(

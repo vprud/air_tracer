@@ -2,9 +2,9 @@ import holidays
 
 from air_tracer.models import Predictor
 
-def test():
+def test(model_path):
     predictor = Predictor(
-        "./p_168e8bb446624bef8b6efe6028e95503.pkl",
+        model_path,
         holidays.CountryHoliday('RU')
     )
     post_name = "Марьино"

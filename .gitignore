@@ -130,5 +130,7 @@ dmypy.json
 
 *.html
 
-./data/Датасет_04
+/data/Датасет_04/
+/notes/preds/
+/notes/rst/
 .DS_Store

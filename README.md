@@ -6,7 +6,7 @@
 <img align="middle" src="./report/gifs/pollution_simulation_simple.gif" alt="Simulation Demo" width="400" height="600" />
 </p>
 
-## Базовое использование
+## Базовое использование предиктора
 
 Скачайте и настроение виртуальное окружение: 
 
@@ -41,3 +41,4 @@ python air_tracer -f n -a "Марьино" "NO" "21-09-2021 15:00"
 ```terminal
 python air_tracer -h
 ```
+Решение собиралось и тестировалось на macOS 10.15.7 (19H1419) 1,6 GHz 2‑ядерный процессор Intel Core i5.

@@ -3,7 +3,7 @@
 В этом репозитории хранится исходный код по построению предиктивной модели концентрации загрязняющих веществ (CO, NO2, NO, PM2.5, PM10) по городу Москва за 2020 календарный год рамках [задачи](https://leaders2021.innoagency.ru/04/) хакатона ЛЦТ. А также исходный код по моделированию распространения загрязняющих веществ на территории города Москва.
 
 <p align="center">
-<img align="middle" src="./report/gifs/pollution_simulation_neuro.gif" alt="Simulation Demo" width="800" height="600" />
+<img align="middle" src="./report/gifs/pollution_simulation_neuronet.gif" alt="Simulation Demo" width="800" height="600" />
 </p>
 
 Отслеживание растпространения загрязняющих вещества по территории города.

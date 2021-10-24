@@ -3,8 +3,10 @@
 В этом репозитории хранится исходный код по построению предиктивной модели концентрации загрязняющих веществ (CO, NO2, NO, PM2.5, PM10) по городу Москва за 2020 календарный год рамках [задачи](https://leaders2021.innoagency.ru/04/) хакатона ЛЦТ. А также исходный код по моделированию распространения загрязняющих веществ на территории города Москва.
 
 <p align="center">
-<img align="middle" src="./report/gifs/pollution_simulation_simple.gif" alt="Simulation Demo" width="400" height="600" />
+<img align="middle" src="./report/gifs/pollution_simulation_neuro.gif" alt="Simulation Demo" width="800" height="600" />
 </p>
+
+Отслеживание растпространения загрязняющих вещества по территории города.
 
 ## Базовое использование предиктора
 
@@ -42,3 +44,5 @@ python air_tracer -f n -a "Марьино" "NO" "21-09-2021 15:00"
 python air_tracer -h
 ```
 Решение собиралось и тестировалось на macOS 10.15.7 (19H1419) 1,6 GHz 2‑ядерный процессор Intel Core i5.
+
+
